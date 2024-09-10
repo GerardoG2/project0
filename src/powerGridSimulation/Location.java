@@ -1,6 +1,6 @@
 package powerGridSimulation;
 
-public class Location {
+public class Location {// cat
 
 	public String locationId;
 	public int numApp;
