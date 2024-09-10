@@ -9,6 +9,8 @@ efficient power usage of regular and smart appliances.
 
 ## Environments Used
 * Windows 10
+* Eclipse IDE
+* OBS Studio (screencast software)
 
 ## Program Demo Video 
 [Watch the Demo Video](https://drive.google.com/file/d/1RZUKfcGY8W9dAnGwr_rlSNE0LSfzqIqd/view?usp=sharing)
