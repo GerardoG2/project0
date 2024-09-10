@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+/bin/
+*.log
+*.tmp
+add_appliances.txt
