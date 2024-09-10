@@ -18,7 +18,7 @@ public class Main {
 	
     public static void main(String[] args) throws IOException {
     	
-    	//System.out.print("Hello World! dog");
+    	//System.out.print("Hello World! chinchilla");
         ArrayList<Appliance> applianceList = new ArrayList<>();
         ArrayList<String> applianceID = new ArrayList<>();
         

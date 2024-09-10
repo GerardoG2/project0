@@ -22,7 +22,7 @@ public class Appliance{
     	this.isOn = onStatus;	
     }
     
-    public String getLocationID() {///hello cat
+    public String getLocationID() {///hello mouse
     	return locationID;
     }
     public String getDescription() {
