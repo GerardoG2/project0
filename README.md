@@ -22,9 +22,9 @@ Power Simulation Instructions
    `LocationID,ApplianceDescription,OnWattage,ProbabilityOfBeingOn,isSmart (represented by true or false), percentPowerReduction (double between zero and one)`
    (See [`app.txt`](app.txt) file in the repository folder for an example)
 
-2. Add the [`Main.java`](powerGridSimulation/Main.java), [`Appliance.java`](powerGridSimulation/Appliance.java), and [`Location.java`](powerGridSimulation/Location.java) files to the same package folder.
+2. Add the [`Main.java`](src/powerGridSimulation/Main.java), [`Appliance.java`](src/powerGridSimulation/Appliance.java), and [`Location.java`](src/powerGridSimulation/Location.java) files to the same package folder.
 
-3. Run [`Main.java`](powerGridSimulation/Main.java).
+3. Run [`Main.java`](src/powerGridSimulation/Main.java).
 
 4. Enter the inputs requested by the program: allowed wattage (int), timesteps (int), and the name of the input file.
 
