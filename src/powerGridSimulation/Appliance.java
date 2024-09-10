@@ -51,7 +51,7 @@ public class Appliance{
     	return onWattage;
     	
     }
-    
+    //
     public void setOnStatus() {
     	Random rand = new Random();
     	if (rand.nextDouble() <= this.probabilityOn) {
