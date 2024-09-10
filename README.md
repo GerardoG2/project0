@@ -11,7 +11,7 @@ efficient power usage of regular and smart appliances.
 * Windows 10
 
 ## Program Demo Video 
-[Watch the Demo Video](https://www.youtube.com/watch?v=YourVideoID)
+[Watch the Demo Video]([https://drive.google.com/file/d/1RZUKfcGY8W9dAnGwr_rlSNE0LSfzqIqd/view?usp=sharing])
 
 ## Program walk-through
 Power Simulation Instructions
