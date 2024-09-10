@@ -22,7 +22,7 @@ public class Appliance{
     	this.isOn = onStatus;	
     }
     
-    public String getLocationID() {///hello pizza
+    public String getLocationID() {///hello hippo
     	return locationID;
     }
     public String getDescription() {
